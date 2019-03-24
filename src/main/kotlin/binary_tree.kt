@@ -1,6 +1,6 @@
-package main.kotlin
+package main.datastructures.kotlin
 
-import java.utils.*
+import java.util.*
 fun main(){
     var rootNode = createBinaryTree()
 
